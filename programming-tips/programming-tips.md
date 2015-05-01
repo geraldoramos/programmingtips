@@ -1,4 +1,4 @@
-**15 Tips For Doubling Your Programming Speed**
+**Tips For Doubling Your Programming Speed**
 
 **Use the Rubber Duck technique**
 
