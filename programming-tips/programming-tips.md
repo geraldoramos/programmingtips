@@ -50,8 +50,4 @@ Assertions are a great complement to test cases.  By placing assertions in your 
 
 ## Tap into an expert marketplace like HackHands
 
-<<<<<<< HEAD
-HackHands can more than double your software development productivity by getting you “unstuck” every time you find yourself pulling your hair out on the same programming problems.  The way it works is you “hire’ an expert for a small fee, and he or she looks at your code through screenshare and video chat.  In a matter of minutes you can be productive again.  These services can be nice since you can access expertise on a specific library, and you don’t need to bother your co-workers.
-=======
 HackHands can more than double your software development productivity by getting you “unstuck” every time you find yourself pulling your hair out on the same programming problems.  The way it works is you “hire’ an expert for a small fee, and he looks at your code through screenshare and video chat.  In a matter of minutes you can be productive again.  These services can be nice since you can access expertise on a specific library, and you don’t need to bother your co-workers.
->>>>>>> pr/3
